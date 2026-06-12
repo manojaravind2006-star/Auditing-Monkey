@@ -1,6 +1,6 @@
 # 🐵 Auditing Monkey
 
-An AI-powered Website QA Testing & Exploration Platform that automatically audits websites by crawling pages, clicking buttons, exploring links, capturing screenshots, and generating reports.
+An QA Testing & Exploration Platform that automatically audits websites by crawling pages, clicking buttons, exploring links, capturing screenshots, and generating reports.
 
 ---
 
@@ -16,9 +16,7 @@ Instead of manually navigating through a website, Auditing Monkey uses browser a
 - Capture screenshots
 - Detect broken links
 - Generate audit reports
-- Provide real-time scan updates
 
----
 
 ## ✨ Features
 
@@ -48,7 +46,6 @@ Instead of manually navigating through a website, Auditing Monkey uses browser a
 - Produces structured audit reports
 - Summarizes findings and issues
 
----
 
 ## 🏗️ System Architecture
 
@@ -71,7 +68,6 @@ Playwright Automation Engine
  └── Report Generation
 ```
 
----
 
 ## 🛠️ Tech Stack
 
@@ -89,11 +85,6 @@ Playwright Automation Engine
 ### Automation
 - Playwright
 
-### Deployment
-- Vercel
-- Railway
-
----
 
 ## 📂 Project Structure
 
@@ -123,7 +114,6 @@ Auditing-Monkey
 └── README.md
 ```
 
----
 
 ## ⚙️ Installation
 
@@ -134,7 +124,6 @@ git clone https://github.com/your-username/Auditing-Monkey.git
 cd Auditing-Monkey
 ```
 
----
 
 ### Backend Setup
 
@@ -213,13 +202,10 @@ Response:
 
 ## 📈 Future Enhancements
 
-- AI-powered bug detection
+- Bug detection
 - Accessibility auditing
 - Form validation testing
 - Performance testing
-- PDF report export
-- Team collaboration dashboard
-- SaaS multi-tenant architecture
 
 Auditing Monkey demonstrates:
 
@@ -229,7 +215,7 @@ Auditing Monkey demonstrates:
 
 ## 👨‍💻 Authors
 
-### Manoj Aravind S, Bharathi Mohan S, Ajeaay Vishwha V S
+### Ajeaay Vishwha V S, Manoj Aravind S, Bharathi Mohan S
 
 Project developed as an automated QA and website auditing platform using Playwright, React, Node.js, and Socket.IO.
 
