@@ -56,7 +56,7 @@ Instead of manually navigating through a website, Auditing Monkey uses browser a
 User
  │
  ▼
-React Frontend (Vercel)
+Frontend (Vercel)
  │
  ▼
 Express API (Node.js)
